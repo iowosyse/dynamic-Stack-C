@@ -1,0 +1,3 @@
+C:/Users/cande/OneDrive/Escritorio/Tec uwu/Estructura de datos/pilas dinamicas/cmake-build-debug/CMakeFiles/pilas_dinamicas.dir
+C:/Users/cande/OneDrive/Escritorio/Tec uwu/Estructura de datos/pilas dinamicas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cande/OneDrive/Escritorio/Tec uwu/Estructura de datos/pilas dinamicas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

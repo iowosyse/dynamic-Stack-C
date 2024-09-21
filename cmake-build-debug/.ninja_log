@@ -1,0 +1,27 @@
+# ninja log v6
+4	105	7485106495339665	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+107	237	7485106496374024	pilas_dinamicas.exe	469039e829868fe3
+5	89	7485107394516783	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+89	204	7485107395365994	pilas_dinamicas.exe	469039e829868fe3
+15	156	7485108116221703	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+157	314	7485108117637093	pilas_dinamicas.exe	469039e829868fe3
+7	109	7485110007094566	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+109	221	7485110008110187	pilas_dinamicas.exe	469039e829868fe3
+5	1167	7485110379337750	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+1169	1278	7485110390976991	pilas_dinamicas.exe	469039e829868fe3
+5	1115	7485110904065377	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+1115	1229	7485110915162696	pilas_dinamicas.exe	469039e829868fe3
+6	816	7485113549726403	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+817	931	7485113557839824	pilas_dinamicas.exe	469039e829868fe3
+56	1043	7485516274240839	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+1043	1198	7485516284109317	pilas_dinamicas.exe	469039e829868fe3
+8	941	7485516765499863	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+942	1080	7485516774832779	pilas_dinamicas.exe	469039e829868fe3
+9	933	7485517145513378	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+934	1058	7485517154762430	pilas_dinamicas.exe	469039e829868fe3
+11	927	7485517296191639	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+927	1063	7485517305347679	pilas_dinamicas.exe	469039e829868fe3
+8	921	7485517431155750	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+922	1038	7485517440298508	pilas_dinamicas.exe	469039e829868fe3
+52	173	7485797537552216	CMakeFiles/pilas_dinamicas.dir/pilasDinamicas.c.obj	347b255194b1fa67
+174	331	7485797538762385	pilas_dinamicas.exe	469039e829868fe3
