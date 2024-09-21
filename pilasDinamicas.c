@@ -93,7 +93,6 @@ int pop()
         return -1;
     }
 
-
     nodo *elem = raiz, *prev = NULL;
 
     while (elem -> sig != NULL)
@@ -109,7 +108,7 @@ int pop()
     else
         prev -> sig = NULL;
 
-    free(elem);  // Liberar memoria
+    free(elem);
 
     return valor;
 }
